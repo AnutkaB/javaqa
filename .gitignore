@@ -3,10 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/
-
 *.iml
 
-javaqa.iml
 
 ### Eclipse ###
 .apt_generated
